@@ -1,4 +1,4 @@
-# BedWars Plungi
+# BedWars Plugin
 
 An easy plugin to configurate... if u have anny problems on your config you can contact me on discord "ETC DoDo#8265"
 
